@@ -1,8 +1,14 @@
-# intellij_pastel-color-schemes
-Pastel color themes for IntelliJ:
+# Pastel color schemes for IntelliJ
+## Themes
 * **Pastel Day** – for usage in bright environments, e.g. office during daytime, sitting close to windows, outdoors, etc.
 
-Custom syntax highlighting for:
+## Compatibility
+
+IntelliJ IDEA 2016.3.5
+
+## Custom syntax highlighting
+
+Syntax highlighting including:
 * General
 * Language defaults
 * Java
