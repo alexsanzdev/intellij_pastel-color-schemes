@@ -3,7 +3,7 @@
     <property name="created">2017-03-25T23:07:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.5.0.0</property>
-    <property name="modified">2017-03-26T21:39:27</property>
+    <property name="modified">2017-03-27T20:19:50</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <font>
@@ -18,8 +18,8 @@
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <colors>
     <option name="CARET_COLOR" value="353535" />
-    <option name="CARET_ROW_COLOR" value="fffbf2" />
-    <option name="GUTTER_BACKGROUND" value="e1dac5" />
+    <option name="CARET_ROW_COLOR" value="ffffff" />
+    <option name="GUTTER_BACKGROUND" value="e6dfcf" />
     <option name="INDENT_GUIDE" value="f7e9d5" />
     <option name="RIGHT_MARGIN_COLOR" value="e1dac5" />
     <option name="SELECTED_INDENT_GUIDE" value="e6d2b8" />
@@ -187,7 +187,7 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="f6ebbc" />
+        <option name="BACKGROUND" value="eee8d5" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -245,7 +245,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="f6ebbc" />
+        <option name="BACKGROUND" value="eee8d5" />
       </value>
     </option>
     <option name="Map key">
@@ -263,7 +263,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="747474" />
-        <option name="BACKGROUND" value="fdf6e3" />
+        <option name="BACKGROUND" value="fcf9f0" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
