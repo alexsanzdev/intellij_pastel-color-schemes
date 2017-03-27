@@ -3,7 +3,7 @@
     <property name="created">2017-03-25T23:07:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.5.0.0</property>
-    <property name="modified">2017-03-27T20:19:50</property>
+    <property name="modified">2017-03-27T20:31:42</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <font>
@@ -49,12 +49,12 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="158bb3" />
+        <option name="FOREGROUND" value="1598b3" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="158bb3" />
+        <option name="FOREGROUND" value="1598b3" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -107,7 +107,7 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="158bb3" />
+        <option name="FOREGROUND" value="1598b3" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
