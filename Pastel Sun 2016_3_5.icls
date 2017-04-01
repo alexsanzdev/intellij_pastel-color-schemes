@@ -98,7 +98,6 @@
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="2e83d9" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -160,7 +159,6 @@
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="cc6652" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
