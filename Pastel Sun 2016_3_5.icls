@@ -3,7 +3,7 @@
     <property name="created">2017-03-25T23:07:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.5.0.0</property>
-    <property name="modified">2017-04-01T13:57:25</property>
+    <property name="modified">2017-04-01T14:12:57</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -256,7 +256,7 @@
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="747474" />
+        <option name="FOREGROUND" value="707070" />
         <option name="BACKGROUND" value="fcf9f0" />
       </value>
     </option>
