@@ -3,7 +3,7 @@
     <property name="created">2017-03-25T23:07:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.5.0.0</property>
-    <property name="modified">2017-04-08T18:40:35</property>
+    <property name="modified">2017-04-08T23:10:47</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -30,6 +30,55 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="CSS.COLOR">
+      <value />
+    </option>
+    <option name="CSS.FUNCTION">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CSS.HASH">
+      <value>
+        <option name="FOREGROUND" value="2e83d9" />
+      </value>
+    </option>
+    <option name="CSS.IDENT">
+      <value>
+        <option name="FOREGROUND" value="158bb3" />
+      </value>
+    </option>
+    <option name="CSS.IMPORTANT">
+      <value>
+        <option name="FOREGROUND" value="e68845" />
+      </value>
+    </option>
+    <option name="CSS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="b38659" />
+      </value>
+    </option>
+    <option name="CSS.PROPERTY_NAME">
+      <value>
+        <option name="FOREGROUND" value="a265b8" />
+      </value>
+    </option>
+    <option name="CSS.PROPERTY_VALUE">
+      <value />
+    </option>
+    <option name="CSS.PSEUDO">
+      <value />
+    </option>
+    <option name="CSS.UNICODE.RANGE">
+      <value>
+        <option name="FOREGROUND" value="e68845" />
+      </value>
+    </option>
+    <option name="CSS.URL">
+      <value>
+        <option name="FOREGROUND" value="2e83d9" />
+      </value>
+    </option>
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="2e83d9" />
@@ -39,7 +88,7 @@
     </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
-        <option name="FOREGROUND" value="2e83d9" />
+        <option name="FOREGROUND" value="b38659" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -175,7 +224,7 @@
     </option>
     <option name="DEFAULT_TAG">
       <value>
-        <option name="FOREGROUND" value="158bb3" />
+        <option name="FOREGROUND" value="cc918f" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -217,8 +266,14 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="HTML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="2e83d9" />
+      </value>
+    </option>
     <option name="HTML_TAG_NAME">
       <value>
+        <option name="FOREGROUND" value="cc6652" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -247,6 +302,14 @@
       <value>
         <option name="FOREGROUND" value="6f47b3" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LESS_KEYWORD">
+      <value />
+    </option>
+    <option name="LESS_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ccaf3d" />
       </value>
     </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
