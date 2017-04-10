@@ -3,7 +3,7 @@
     <property name="created">2017-03-25T23:07:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.5.0.0</property>
-    <property name="modified">2017-04-09T21:56:28</property>
+    <property name="modified">2017-04-10T18:14:13</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -418,6 +418,18 @@
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="158bb3" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="YAML_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="98b39f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_KEY">
+      <value>
+        <option name="FOREGROUND" value="e68845" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>

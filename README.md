@@ -18,3 +18,4 @@ Syntax highlighting including:
 * CSS
 * LESS
 * Properties
+* YAML
