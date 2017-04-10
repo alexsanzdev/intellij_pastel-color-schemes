@@ -13,9 +13,11 @@ Syntax highlighting including:
 * Language defaults
 * Java
 * Groovy
-* XML
+* JavaScript
+* JSON
 * HTML
 * CSS
 * LESS
+* XML
 * Properties
 * YAML

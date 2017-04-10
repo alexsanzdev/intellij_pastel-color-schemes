@@ -3,7 +3,7 @@
     <property name="created">2017-03-26T21:32:51</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.5.0.0</property>
-    <property name="modified">2017-04-10T18:15:30</property>
+    <property name="modified">2017-04-10T20:36:09</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -169,6 +169,11 @@
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="6697d0" />
+      </value>
+    </option>
+    <option name="DEFAULT_INSTANCE_METHOD">
+      <value>
+        <option name="FOREGROUND" value="c4d0dc" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -343,6 +348,27 @@
       </value>
     </option>
     <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="JS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="5a9aa9" />
+      </value>
+    </option>
+    <option name="JS.MODULE_NAME">
+      <value>
+        <option name="FOREGROUND" value="f2f8ff" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="JSON.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="5a9aa9" />
+      </value>
+    </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="cc857a" />
+      </value>
+    </option>
     <option name="LESS_KEYWORD">
       <value />
     </option>
