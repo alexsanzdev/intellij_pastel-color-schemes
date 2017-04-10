@@ -13,3 +13,8 @@ Syntax highlighting including:
 * Language defaults
 * Java
 * Groovy
+* XML
+* HTML
+* CSS
+* LESS
+* Properties
