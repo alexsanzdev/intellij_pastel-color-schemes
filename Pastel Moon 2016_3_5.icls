@@ -3,7 +3,7 @@
     <property name="created">2017-03-26T21:32:51</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.5.0.0</property>
-    <property name="modified">2017-05-06T10:59:33</property>
+    <property name="modified">2017-05-26T14:40:33</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -349,6 +349,11 @@
       </value>
     </option>
     <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="JS.INSTANCE_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="b294bb" />
+      </value>
+    </option>
     <option name="JS.KEYWORD">
       <value>
         <option name="FOREGROUND" value="5a9aa9" />
@@ -363,11 +368,6 @@
     <option name="JSON.KEYWORD">
       <value>
         <option name="FOREGROUND" value="5a9aa9" />
-      </value>
-    </option>
-    <option name="JSON.PROPERTY_KEY">
-      <value>
-        <option name="FOREGROUND" value="cc857a" />
       </value>
     </option>
     <option name="LESS_KEYWORD">
