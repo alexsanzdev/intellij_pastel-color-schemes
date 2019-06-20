@@ -1,17 +1,18 @@
 <scheme name="Pastel Sun 2016.3.5" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-03-25T23:07:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.5.0.0</property>
-    <property name="modified">2017-05-26T14:38:20</property>
+    <property name="modified">2019-05-13T12:01:54</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="CARET_COLOR" value="e63330" />
     <option name="CARET_ROW_COLOR" value="ffffff" />
@@ -147,7 +148,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="353535" />
+        <option name="FOREGROUND" value="1598b3" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
@@ -305,6 +306,11 @@
       <value>
         <option name="FOREGROUND" value="6f47b3" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.FUNCTION_ARROW">
+      <value>
+        <option name="FOREGROUND" value="1598b3" />
       </value>
     </option>
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
