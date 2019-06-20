@@ -4,7 +4,7 @@
     <property name="created">2017-03-25T23:07:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.5.0.0</property>
-    <property name="modified">2019-05-13T12:01:54</property>
+    <property name="modified">2019-06-20T22:16:57</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -51,7 +51,7 @@
     </option>
     <option name="CSS.IMPORTANT">
       <value>
-        <option name="FOREGROUND" value="e68845" />
+        <option name="FOREGROUND" value="ccaf3d" />
       </value>
     </option>
     <option name="CSS.KEYWORD">
@@ -72,7 +72,7 @@
     </option>
     <option name="CSS.UNICODE.RANGE">
       <value>
-        <option name="FOREGROUND" value="e68845" />
+        <option name="FOREGROUND" value="ccaf3d" />
       </value>
     </option>
     <option name="CSS.URL">
@@ -346,7 +346,7 @@
     </option>
     <option name="LESS_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="ccaf3d" />
+        <option name="FOREGROUND" value="e68845" />
       </value>
     </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
@@ -395,6 +395,11 @@
         <option name="FOREGROUND" value="47b347" />
         <option name="EFFECT_COLOR" value="47b347" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SASS_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="e68845" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
